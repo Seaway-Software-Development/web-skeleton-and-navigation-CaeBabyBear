@@ -19,7 +19,8 @@ nav {
 }
 
 nav ul {
-    display: inline;
+    list-style: none;
+    display: inline-block;
     font-size: 180%;
 }
 
