@@ -15,8 +15,12 @@ blockquote {
 }
 
 nav {
-    display: inline-block;
+    display: inline;
     background-color: #F4D35E;
+}
+
+nav ul li {
+    font-size: 180%;
 }
 
 nav ul li a {
