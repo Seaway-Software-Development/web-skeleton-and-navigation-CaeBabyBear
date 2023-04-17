@@ -8,18 +8,24 @@ html {
     background-color: #FAF0CA;
 }
 
+blockquote {
+    text-align: center;
+    font-size: 200%;
+    padding: 20px;
+}
+
 nav {
-    align-content: center;
     background-color: #F4D35E;
 }
 
-nav ul li a {
+nav a {
+    display: inline-block;
     text-decoration: none;
     color: #0D3B66;
     text-align: center;
 }
 
-nav ul li a:hover {
+nav a:hover {
     text-decoration: underline;
 }
 
@@ -30,4 +36,5 @@ h1 {
 
 p {
     text-align: center;
+    padding: 0 25px;
 }
