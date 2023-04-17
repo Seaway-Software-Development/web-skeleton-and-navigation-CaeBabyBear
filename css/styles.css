@@ -18,20 +18,24 @@ nav {
     background-color: #F4D35E;
 }
 
-nav a {
+nav ul li a {
     display: inline-block;
     text-decoration: none;
     color: #0D3B66;
     text-align: center;
 }
 
-nav a:hover {
+nav ul li a:hover {
     text-decoration: underline;
 }
 
 h1 {
     color: #0D3B66;
     text-align: center;
+}
+
+h2 {
+    color: #0D3B66;
 }
 
 p {
