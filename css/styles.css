@@ -19,9 +19,12 @@ nav {
 }
 
 nav ul {
-    list-style: none;
-    display: inline-block;
+    list-style-type: none;
     font-size: 180%;
+}
+
+nav li {
+    display: inline-block;
 }
 
 nav ul li a {
