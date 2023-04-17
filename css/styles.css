@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    background-color: #FAF0CA;
+}
+
+nav {
+    align-content: center;
+    background-color: #F4D35E;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0D3B66;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #0D3B66;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
